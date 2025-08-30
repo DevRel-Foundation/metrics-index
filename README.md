@@ -1,6 +1,6 @@
 # Metrics Index
 
-To demonstrate value there are metrics, measurements, and key performance indicators that are useful. The **Metrics Index** project aims to help curate definitions of metrics with pragmatic advice to collect and benchmark the performance of Developer Relations programs.
+To demonstrate the value DevRel programs provide we need metrics, measurements, and key performance indicators that are useful in explaining that performance. The **Metrics Index** project aims to help curate definitions of metrics with pragmatic advice on how to collect and benchmark the impact of Developer Relations programs.
 
 * [Requirements and Use Cases](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/114)
 
