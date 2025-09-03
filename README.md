@@ -8,8 +8,8 @@ To demonstrate the value DevRel programs provide we need metrics, measurements, 
 
 This repository is maintained with support of the [Resource and Asset Aggregation Working Group](https://github.com/DevRel-Foundation/wg-resource-aggregation) and Developer Relations Foundation.
 
-* [Contributing]()
-* [Report Issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues)
+* [Contributing](./CONTRIBUTING.md)
+* [Report Issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues?q=state%3Aopen%20label%3Aresource%3Ametrics)
 * [Questions & Feedback](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/metrics-index)
 
 ## About the Developer Relations Foundation
