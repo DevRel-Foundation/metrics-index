@@ -4,6 +4,10 @@ To demonstrate the value DevRel programs provide we need metrics, measurements, 
 
 * [Requirements and Use Cases](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/114)
 
+## Using the Metrics Index
+
+- [How to run scripts](./docs/how-to-run-scripts.md)
+
 ## About the Metrics Index
 
 This repository is maintained with support of the [Resource and Asset Aggregation Working Group](https://github.com/DevRel-Foundation/wg-resource-aggregation) and Developer Relations Foundation.
@@ -19,3 +23,4 @@ This repository is maintained with support of the [Resource and Asset Aggregatio
 The DevRel Foundation is on a mission to elevate the professional practice of Developer Relations and increase awareness of it as a driver of business value. 
 
 Visit https://dev-rel.org/ to learn more.
+
